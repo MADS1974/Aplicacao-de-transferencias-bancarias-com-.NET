@@ -6,5 +6,5 @@
 
 ## Link do repositório original
 
-Github:  [[Repositório original] ]([https://github.com/elizarp/dio-dotnet-poo-lab-1])
+Github:  https://github.com/elizarp/dio-dotnet-poo-lab-1
 
